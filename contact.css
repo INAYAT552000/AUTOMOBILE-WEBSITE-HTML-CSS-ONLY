@@ -1,0 +1,155 @@
+body {
+  background: #36FFF8;
+  background: linear-gradient(to right, #36FFF8 0%, #E374BA 100%);
+  
+  }
+  
+
+  
+  .form {
+    background: #121FCF;
+background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+
+    box-shadow: 0 30px 60px 0 rgba(90, 116, 148, 0.4);
+    border-radius: 5px;
+    max-width: 480px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    left: 835px;
+    right: 0;
+    position: absolute;
+    border-top: 5px solid #0e3721;
+  
+    
+  }
+
+  
+ 
+
+  .pageTitle{
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+  }
+  .secondaryTitle{
+    color: grey;
+    text-align: center;
+  }
+  
+  .name {
+    background-color: #ebebeb;
+    color:black;
+  }
+  .name:hover {
+   
+    height: 30px;
+    width: 380px;
+    transition: ease 0.5s;
+  }
+  
+  .email {
+    background-color: #ebebeb;
+    height: 2em;
+  }
+  
+  .email:hover {
+    
+    height: 30px;
+    width: 380px;
+    transition: ease 0.5s;
+  }
+  
+  .message {
+    background-color: #ebebeb;
+    overflow: hidden;
+    height: 10rem;
+  }
+  
+  .message:hover {
+    
+    height: 12em;
+    width: 380px;
+    transition: ease 0.5s;
+  }
+  
+  .formEntry {
+    display: block;
+    margin: 30px auto;
+    min-width: 300px;
+    padding: 10px;
+    border-radius: 2px;
+    border: none;
+    transition: all 0.5s ease 0s;
+  }
+  
+  .submit {
+    width: 200px;
+    color: white;
+    background-color: #0e3721;
+    font-size: 20px;
+  }
+  
+  .submit:hover {
+    box-shadow: 15px 15px 15px 5px rgba(78, 72, 77, 0.219);
+    transform: translateY(-3px);
+    width: 300px;
+    border-top: 5px solid #0e3750;
+    border-radius: 0%;
+  }
+
+  .homebtn{
+    width: 200px;
+    color: white;
+    background-color: #0e3721;
+    font-size: 20px;
+    margin-left: 136px;
+  }
+
+  .homebtn:hover{
+    box-shadow: 15px 15px 15px 5px rgba(78, 72, 77, 0.219);
+    transform: translateY(-3px);
+    width: 300px;
+    border-top: 5px solid #0e3750;
+    border-radius: 0%;
+  }
+
+
+  @import url('https://fonts.googleapis.com/css?family=Koulen');
+.text{
+    font-family: Koulen, cursive;
+    font-weight: bold;
+    text-align: center;
+    font-size: 53px;
+    letter-spacing: 4px;
+    color: rgb(255, 43, 0);
+    margin-right: 555px;
+    
+    text-shadow: rgb(0, 0, 0) 13px -7px 2px;
+}
+
+.text2{
+  font-size: 30px;
+  color: #ff077f;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+ font-weight: bold;
+ width: 824.95px;
+
+ padding-top: 20px;
+
+}
+
+
+.contacttext{
+  font-size: 20px;
+  color: #ff077f;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+ font-weight: bold;
+  text-shadow: 0px 0px 0 rgb(230,-18,102);
+  margin-top: 247px;
+margin-left: 36px;
+               
+
+  
+}

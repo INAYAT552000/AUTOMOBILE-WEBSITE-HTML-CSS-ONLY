@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+ 
+  font-family: "Josefin Sans", sans-serif;
+  
+}
+
+header {
+  width: 100%;
+  height: 100vh;
+  background-image:url(/bgimg.jpg);
+  
+  background-size: cover;
+  
+}
+
+nav {
+  width: 100%;
+  height: 15vh;
+  background: rgba(0, 0, 0, 0.2);
+  color: white;
+  display: flex;
+ 
+  align-items: center;
+  text-transform: uppercase;
+}
+
+nav .mainheading{
+  width: 25%;
+  text-align: center;
+  font-size: 25px;
+  text-transform: uppercase;
+  
+  
+  margin-right: 131px;
+  margin-left: -100px;
+  color: goldenrod;
+
+  
+}
+
+.topleftlogo{
+  width: 139px;
+  height: 100.183px;
+}
+
+nav .menu {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav .menu a {
+  width: 25%;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  padding-left: 80px;
+  
+}
+
+.carvideo{
+  width: 25%;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding-left: 80px;
+}
+
+
+main {
+  width: 100%;
+  height: 85;
+  
+  align-items: center;
+  text-align: center;
+  color: white;
+  border-top-width: 102px;
+  
+}
+section{
+  margin-top: 250px;
+  
+
+}
+
+
+
+.sectionunder{
+  
+  text-shadow: 15px -5px 3px rgba(150, 150, 150, 0.73);
+  margin-top: -97px;
+
+}
+
+section h1 {
+  margin: 30px 0 20px 0;
+  font-size: 35px;
+  font-weight: 700;
+ 
+  text-transform: uppercase;
+}
+
+section p {
+  font-size: 25px;
+  word-spacing: 2px;
+  margin-bottom: 25px;
+ 
+}
+
+section a {
+  padding: 12px 30px;
+  border-radius: 4px;
+
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 500;
+
+  
+  
+}
+
+
+
